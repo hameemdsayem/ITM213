@@ -1,6 +1,6 @@
 package hackerrank;
 import java.util.*;
-public class code1{
+public class calculator{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         
